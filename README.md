@@ -12,7 +12,7 @@ https://youtu.be/3vsC05rxZ8c
 
 # Setup for debian/ubuntu
 
-sudo apt update
-sudo apt install mysql-server
-sudo mysql_secure_installation
-
+## sudo apt update
+## sudo apt install mysql-server
+## sudo mysql_secure_installation
+## pip3 install mysql-connector
