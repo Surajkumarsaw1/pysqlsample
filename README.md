@@ -11,8 +11,9 @@ https://youtu.be/3vsC05rxZ8c
 # Replace user and password with your own.
 
 # Setup for debian/ubuntu
-
-## sudo apt update
-## sudo apt install mysql-server
-## sudo mysql_secure_installation
-## pip3 install mysql-connector
+```bash
+sudo apt update
+sudo apt install mysql-server
+sudo mysql_secure_installation
+pip3 install mysql-connector
+```
